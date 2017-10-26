@@ -166,16 +166,16 @@ header {
       padding-top: 5%;
       padding-right: 15%;
       overflow: hidden; }
-      header .blog_header_decorate .blog_header_intrduce .blog_tit_intrduce {
-        color: #fff;
-        font-size: 2.4rem;
-        line-height: 3.6rem;
-        text-align: center; }
       header .blog_header_decorate .blog_header_intrduce .blog_text_intrduce {
         color: #fff;
         font-size: 1.2rem;
         line-height: 1.6rem;
         text-indent: 2em; }
+      header .blog_header_decorate .blog_header_intrduce p:nth-of-type(1), header .blog_header_decorate .blog_header_intrduce .blog_tit_intrduce {
+        color: #fff;
+        font-size: 2.4rem;
+        line-height: 3.6rem;
+        text-align: center; }
 
 section {
   width: 100%;
@@ -195,11 +195,12 @@ section {
     padding-top: 20px; }
     section .blog_introduce .blog_introduce_mylive {
       height: auto;
-      clear: both;
-      border-bottom: 2px solid #dddddd; }
+      clear: both; }
       section .blog_introduce .blog_introduce_mylive .blog_mylive_details {
         height: 120px;
-        text-indent: 2em; }
+        text-indent: 2em;
+        border-bottom: 2px solid #dddddd;
+        margin-bottom: 5px; }
         section .blog_introduce .blog_introduce_mylive .blog_mylive_details img {
           width: 20%;
           height: 100px;
@@ -216,7 +217,8 @@ section {
           clear: both; }
     section .blog_introduce .blog_other_details {
       width: 100%;
-      height: 255px; }
+      height: 255px;
+      overflow: hidden; }
       section .blog_introduce .blog_other_details .blog_other_links {
         width: 55%;
         float: left;
@@ -309,6 +311,7 @@ footer {
   footer .blog_more_details {
     width: 30%;
     padding-left: 40px;
+    overflow: hidden;
     height: inherit; }
 
 @media (min-width: 1200px) {
@@ -326,12 +329,12 @@ footer {
     height: 28px;
     background: url(../img/templatemo_header.jpg);
     background-size: 100% 100%; }
-    header ul {
+    header #myheader ul {
       height: inherit; }
-      header ul li {
+      header #myheader ul li {
         height: inherit;
         padding: 0 3% 0 3%; }
-        header ul li a {
+        header #myheader ul li a {
           font-size: 0.5rem;
           line-height: 28px; }
     header .blog_header_decorate {

@@ -241,10 +241,13 @@ section {
         .blog_introduce_mylive {
             height: auto;
             clear: both;
-            border-bottom: 2px solid #dddddd;
+//          border-bottom: 2px solid #dddddd;
             .blog_mylive_details {
                 height: 120px;
                 text-indent: 2em;
+                border-bottom: 2px solid #dddddd;
+                margin-bottom: 5px;
+                
                 img {
                     width: 20%;
                     height: 100px;
@@ -266,6 +269,7 @@ section {
         .blog_other_details {
             width: 100%;
             height: 255px;
+            overflow: hidden;
             .blog_other_links {
                 width: 55%;
                 float: left;
@@ -323,14 +327,12 @@ section {
                 width: inherit;
                 .blog__piclist_layout {
                     a {
-                        //                      display: block;
                         img {
                             width: 92%;
                             border: none;
                             background-color: #fff;
                             padding: 2%;
                             margin: 2%;
-                            //                      border: 5px solid #d5d5d5;
                         }
                     }
                 }
@@ -390,6 +392,7 @@ footer {
     .blog_more_details {
         width: 30%;
         padding-left: 40px;
+         overflow: hidden;
         height: inherit;
     }
 }
@@ -414,7 +417,8 @@ footer {
         height: 28px;
         background: url(../img/templatemo_header.jpg);
         background-size: 100% 100%;
-        ul {
+        #myheader {
+            ul {
             height: inherit;
             li {
                 height: inherit;
@@ -425,6 +429,8 @@ footer {
                 }
             }
         }
+        }
+        
         .blog_header_decorate {
             display: none;
         }

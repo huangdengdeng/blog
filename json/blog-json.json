@@ -1,16 +1,5 @@
 [
 	{
-		"key": "keyebcnklzxvcbxnz,.cnkdmx,c.svbdnmcx",
-		"url": "www.runoob.com" ,
-		"libcj": [
-			1111,
-			2222,
-			3333,
-			4444,
-			5555,
-			6666,
-			7777
-		],
 		"headerTest": [
 			"主页",
 			"设计",
@@ -22,49 +11,82 @@
 		],
 		"name": "小小棕熊爱绿萝",
 		"userImg": "img/xiong.jpg",
-		"user_int":[
-		"岁月静好，浅笑安然",
-		"22日出日落，花开花谢，岁月，周而复始，一如往昔，沉淀着过往，雕刻着沧桑。掬一捧花香，给心沁入明媚。握一份懂得，走过红尘喧嚣，一路清唱，轻拈几许淡雅，在静好的时光里，浅笑嫣然。",
-		"33日出日落，花开花谢，岁月，周而复始，一如往昔，沉淀着过往，雕刻着沧桑。掬一捧花香，给心沁入明媚。握一份懂得，走过红尘喧嚣，一路清唱，轻拈几许淡雅，在静好的时光里，浅笑嫣然。",
-		"44日出日落，花开花谢，岁月，周而复始，一如往昔，沉淀着过往，雕刻着沧桑。掬一捧花香，给心沁入明媚。握一份懂得，走过红尘喧嚣，一路清唱，轻拈几许淡雅，在静好的时光里，浅笑嫣然。"
+		"user_int": [
+			"岁月静好，浅笑安然",
+			"22日出日落，花开花谢，岁月，周而复始，一如往昔，沉淀着过往，雕刻着沧桑。掬一捧花香，给心沁入明媚。握一份懂得，走过红尘喧嚣，一路清唱，轻拈几许淡雅，在静好的时光里，浅笑嫣然。",
+			"33日出日落，花开花谢，岁月，周而复始，一如往昔，沉淀着过往，雕刻着沧桑。掬一捧花香，给心沁入明媚。握一份懂得，走过红尘喧嚣，一路清唱，轻拈几许淡雅，在静好的时光里，浅笑嫣然。",
+			"44日出日落，花开花谢，岁月，周而复始，一如往昔，沉淀着过往，雕刻着沧桑。掬一捧花香，给心沁入明媚。握一份懂得，走过红尘喧嚣，一路清唱，轻拈几许淡雅，在静好的时光里，浅笑嫣然。"
 		],
-		"userlive-tit": [
-			"我的周末",
-			"我的星期天",
-			"我的旅游日记",
-			"服务",
-			"联系方式",
-			"网页技巧",
-			"自然科学",
-			"网页技巧+"
+		"userlive": [
+			{
+				"tit": "我的周末",
+				"imgurl": "img/templatemo_img_1.jpg",
+				"text": "111然而，执法，前后Vulputate周末，花生脚始终是悼念宣传泄漏的恐惧。足球免费辣椒，喉咙监控，请任何人，怀孕，那是。但该消息。局本元件温度。但总是在LOREM猫。前庭volutpat，拉克丝驾驶的箭，我亲爱的预期值，也euismod酒后驾车。"
+			}, {
+				"tit": "我的星期天",
+				"imgurl": "img/templatemo_img_2.jpg",
+				"text": "222然而，执法，前后Vulputate周末，花生脚始终是悼念宣传泄漏的恐惧。足球免费辣椒，喉咙监控，请任何人，怀孕，那是。但该消息。局本元件温度。但总是在LOREM猫。前庭volutpat，拉克丝驾驶的箭，我亲爱的预期值，也euismod酒后驾车。"
+			}, {
+				"tit": "我的周末",
+				"imgurl": "img/templatemo_img_3.jpg",
+				"text": "111然而，执法，前后Vulputate周末，花生脚始终是悼念宣传泄漏的恐惧。足球免费辣椒，喉咙监控，请任何人，怀孕，那是。但该消息。局本元件温度。但总是在LOREM猫。前庭volutpat，拉克丝驾驶的箭，我亲爱的预期值，也euismod酒后驾车。"
+			}
 		],
-		"user_img": [
-			"img/templatemo_img_1.jpg",
-			"img/templatemo_img_2.jpg",
-			"img/templatemo_img_3.jpg",
-			"img/templatemo_img_4.jpg",
-			"img/templatemo_img_5.jpg",
-			"img/templatemo_img_6.jpg",
-			"img/templatemo_img_7.jpg"
-		],
-		"userlive_p": [
-			"然而，执法，前后Vulputate周末，花生脚始终是悼念宣传泄漏的恐惧。足球免费辣椒，喉咙监控，请任何人，怀孕，那是。但该消息。局本元件温度。但总是在LOREM猫。前庭volutpat，拉克丝驾驶的箭，我亲爱的预期值，也euismod酒后驾车。",
-			"然而，执法，前后Vulputate周末，花生脚始终是悼念宣传泄漏的恐惧。足球免费辣椒，喉咙监控，请任何人，怀孕，那是。但该消息。局本元件温度。但总是在LOREM猫。前庭volutpat，拉克丝驾驶的箭，我亲爱的预期值，也euismod酒后驾车。"
-		],
-		"aword": "双简历维利特SED队malesuada dignissim。据说油树aliquet唇舌",
-		"li_style": "img/templatemo_bullet.png",
-		"list_content": [
-			"Cras ornare tristique elit",
-			"Vestibulum auctor dapibus neque",
-			"Nunc dignissim risus id metus",
-			"Vivamus molestie gravida turpis"
-		],
-		"contact-list": [
-			"电话：010-100-1000",
-			"传真：020-200-2000",
-			"邮箱info@yourcompany.com",
-			"网络www.cssmoban.com"
-		],
+		"other": {
+			"list_left": {
+				"tit": "服务",
+				"intr": "双简历维利特SED队malesuada dignissim。据说油树aliquet唇舌。",
+				"list": [
+					"Cras ornare tristique elit",
+					"Vestibulum auctor dapibus neque",
+					"Nunc dignissim risus id metus",
+					"Vivamus molestie gravida turpis"
+				]
+			} ,
+			"list_right": {
+				"tit": "联系方式",
+				"list": [
+					"电话：010-100-1000",
+					"传真：020-200-2000",
+					"邮箱info@yourcompany.com",
+					"网络www.cssmoban.com"
+				]
+			}
+		},
+
+		"other_pic": {
+			"tit": "我的旅游日记",
+			"ImgURL": [
+				"img/templatemo_img_3.jpg",
+				"img/templatemo_img_4.jpg",
+				"img/templatemo_img_5.jpg",
+				"img/templatemo_img_6.jpg",
+				"img/templatemo_img_3.jpg",
+				"img/templatemo_img_4.jpg"
+			]
+		},
+		"footer": {
+			"footerOne": {
+				"tit": "网页技巧11",
+				"txt": [
+					"Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.",
+					"Sed adipiscing ornare risus. Morbi est est, blandit sit amet, sagittis vel, euismod vel, velit. Pellentesque egestas sem. Suspendisse commodo ullamcorper magna."
+				]
+			},
+			"footerTwo": {
+				"tit": "自然科学",
+				"imgURL": "img/templatemo_img_7.jpg",
+				"txt": [
+					"222Sed adipiscing ornare risus. Morbi est est, blandit sit amet, sagittis vel, euismod vel, velit. Pellentesque egestas sem. Suspendisse commodo ullamcorper magna Sed adipiscing ornare risus. Morbi est est, blandit sit amet, sagittis vel, euismod vel, velit. "
+				]
+			},
+			"footerThree": {
+				"tit": "网页结构",
+				"txt": [
+					"Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi."
+				]
+			}
+		},
 		"back-img": [
 			"img/templatemo_bottom_panel_top.jpg",
 			"img/templatemo_bullet.png",
